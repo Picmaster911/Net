@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Group>
+  <Student>
+    <Name>Bob</Name>
+    <Surname>Jason</Surname>
+    <Age>12</Age>
+    <Phone>123-321-3</Phone>
+  </Student>
+  <Student>
+    <Name>Vlad</Name>
+    <Surname>Borisov</Surname>
+    <Age>12</Age>
+    <Phone>3213-321</Phone>
+  </Student>
+  <Student>
+    <Name>Ivan</Name>
+    <Surname>Ivanov</Surname>
+    <Age>12</Age>
+    <Phone>3123</Phone>
+  </Student>
+</Group>
