@@ -1,0 +1,15 @@
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\bin\Debug\net8.0\Thead_HW2.exe
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\bin\Debug\net8.0\Thead_HW2.deps.json
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\bin\Debug\net8.0\Thead_HW2.runtimeconfig.json
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\bin\Debug\net8.0\Thead_HW2.dll
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\bin\Debug\net8.0\Thead_HW2.pdb
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\Thead_HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\Thead_HW2.AssemblyInfoInputs.cache
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\Thead_HW2.AssemblyInfo.cs
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\Thead_HW2.csproj.CoreCompileInputs.cache
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\Thead_HW2.sourcelink.json
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\Thead_HW2.dll
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\refint\Thead_HW2.dll
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\Thead_HW2.pdb
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\Thead_HW2.genruntimeconfig.cache
+C:\Users\picma\Desktop\Net#\Thead_HW2\Thead_HW2\obj\Debug\net8.0\ref\Thead_HW2.dll
