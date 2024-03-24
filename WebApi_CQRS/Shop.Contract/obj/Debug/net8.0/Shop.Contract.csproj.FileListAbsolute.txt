@@ -1,0 +1,16 @@
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\bin\Debug\net8.0\Shop.Contract.deps.json
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\bin\Debug\net8.0\Shop.Contract.dll
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\bin\Debug\net8.0\Shop.Contract.pdb
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\bin\Debug\net8.0\Shop.Data.dll
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\bin\Debug\net8.0\Shop.Data.pdb
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\Shop.Contract.csproj.AssemblyReference.cache
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\Shop.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\Shop.Contract.AssemblyInfoInputs.cache
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\Shop.Contract.AssemblyInfo.cs
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\Shop.Contract.csproj.CoreCompileInputs.cache
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\Shop.Contract.sourcelink.json
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\Shop.Contract.csproj.CopyComplete
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\Shop.Contract.dll
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\refint\Shop.Contract.dll
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\Shop.Contract.pdb
+C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Contract\obj\Debug\net8.0\ref\Shop.Contract.dll

@@ -92,13 +92,13 @@ void getSumArrMaxMinVal(int[,] arr)
     var academyGroup = new AcademyGroup();
 
 
-    academyGroup.ReadXls();
-    //  academyGroup.Add(new Person("Bob", "Jason", 12, "123-321-3"));
-    //  academyGroup.Add(new Person("Max", "DRdasd", 12, "3123-321"));
-    //  academyGroup.Add(new Person("Vlad", "Borisov", 12, "3213-321"));
-    //  academyGroup.Add(new Person("Ivan", "Ivanov", 12, "3123"));
-    //  academyGroup.Remove("DRdasd");
-    //  academyGroup.Edite("DRdasd", "New");
-    //  academyGroup.SaveXls();
+   // academyGroup.ReadXls();
+    academyGroup.Add(new Person("Bob", "Jason", 12, "123-321-3"));
+    academyGroup.Add(new Person("Max", "DRdasd", 12, "3123-321"));
+    academyGroup.Add(new Person("Vlad", "Borisov", 12, "3213-321"));
+    academyGroup.Add(new Person("Ivan", "Ivanov", 12, "3123"));
+    //academyGroup.Remove("DRdasd");
+    academyGroup.Edite("DRdasd", "New");
+    academyGroup.SaveXls();
     academyGroup.Print();
 }
