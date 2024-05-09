@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9PGn41zkRwfgKGnvofEIs8p/txshlA1Trgvb7gX8WnVzfjCk/ae5YkLzEvjzLlEdShN2V2oCO6bXdIJTpOuNGA==",
+  "dgSpecHash": "6NpdoTsAP65gINpKeEO8xHpt0BAkFs4Z+TSjZpBEGyMA+upUY7u8wWvAnXfkhAMzxrjamCoPFUnxIfdS9YSHHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\CoreReferenseMyData.csproj",
+  "projectFilePath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\CoreReferenseMyData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\picma\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\picma\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

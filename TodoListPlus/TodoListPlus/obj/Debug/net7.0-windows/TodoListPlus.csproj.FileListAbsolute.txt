@@ -1,0 +1,42 @@
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.AddTodoItemForm.resources
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.ConfirmForm.resources
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.CreateNewListForm.resources
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.TodoListMainForm.resources
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.AssemblyInfo.cs
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.exe
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.deps.json
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.runtimeconfig.json
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.dll
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.pdb
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.dll
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\refint\TodoListPlus.dll
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.pdb
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.genruntimeconfig.cache
+C:\Users\admin\source\repos\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\ref\TodoListPlus.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.exe
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.deps.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.runtimeconfig.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\bin\Debug\net7.0-windows\TodoListPlus.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.AddTodoItemForm.resources
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.ConfirmForm.resources
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.CreateNewListForm.resources
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.TodoListMainForm.resources
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.csproj.GenerateResource.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.AssemblyInfoInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.AssemblyInfo.cs
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.csproj.CoreCompileInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.sourcelink.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\refint\TodoListPlus.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.genruntimeconfig.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\ref\TodoListPlus.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.EditeElementFormscs.resources
+C:\Users\picma\OneDrive\Рабочий стол\Net#\TodoListPlus\TodoListPlus\obj\Debug\net7.0-windows\TodoListPlus.EditeListElementForms.resources

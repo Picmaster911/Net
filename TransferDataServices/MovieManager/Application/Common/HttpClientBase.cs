@@ -73,6 +73,30 @@ namespace MovieManager.Service.Common
         public static async Task<RequestResult<T>> Get<T>(HttpClient httpClient, Uri uri)
         {
             var request = new HttpRequestMessage(HttpMethod.Get, uri);
+            var realPositionImpuls = 1;
+            var posRampTemp = 1;
+            var realZadanie = 1;
+            var posRampZadanieVImpuls = 1;
+            var ShagRamp = 1;
+            var i = 1;
+
+            if (realPositionImpuls < posRampZadanieVImpuls && realPositionImpuls < posRampTemp)
+            {
+                posRampTemp = posRampZadanieVImpuls - i;
+                ShagRamp = realZadanie / posRampZadanieVImpuls;
+               
+                if (realPositionImpuls < posRampTemp)
+                {
+                    realZadanie = realZadanie - ShagRamp;
+                    i++;
+                }                   
+            }
+            else 
+            {
+                i = 1;
+                posRampTemp = posRampZadanieVImpuls;
+            }
+               
 
 
             const int maxRetryAttempts = 5;
@@ -101,6 +125,8 @@ namespace MovieManager.Service.Common
                 return result;
             }
         }
+
+       
     }
 }
 

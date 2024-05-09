@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereferensemydata\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|solutionrelative:corereferensemydata\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereferensemydata\\corereferensemydata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|solutionrelative:corereferensemydata\\corereferensemydata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649E52C3-B585-49DB-BD3A-92DC682C0C0F}|CoreReference.Contracts\\CoreReference.Contracts.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereference.contracts\\corereference.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{649E52C3-B585-49DB-BD3A-92DC682C0C0F}|CoreReference.Contracts\\CoreReference.Contracts.csproj|solutionrelative:corereference.contracts\\corereference.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereference.service\\commands\\putsubscribefilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|solutionrelative:corereference.service\\commands\\putsubscribefilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereferensemydata\\controllers\\referencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|solutionrelative:corereferensemydata\\controllers\\referencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereferensemydata\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|solutionrelative:corereferensemydata\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AB9A3F-D152-4622-AFEC-4052947B2FDF}|CoreReferenceMyData.Enteties\\CoreReferenceMyData.Enteties.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereferencemydata.enteties\\enteties\\subscribefilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AB9A3F-D152-4622-AFEC-4052947B2FDF}|CoreReferenceMyData.Enteties\\CoreReferenceMyData.Enteties.csproj|solutionrelative:corereferencemydata.enteties\\enteties\\subscribefilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereferensemydata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|solutionrelative:corereferensemydata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereference.service\\queiries\\getsubscribefilmbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|solutionrelative:corereference.service\\queiries\\getsubscribefilmbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereference.service\\commands\\deletesubscribefilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|solutionrelative:corereference.service\\commands\\deletesubscribefilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereference.service\\commands\\postsubscribefilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|solutionrelative:corereference.service\\commands\\postsubscribefilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649E52C3-B585-49DB-BD3A-92DC682C0C0F}|CoreReference.Contracts\\CoreReference.Contracts.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereference.contracts\\requests\\subscribefilmsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649E52C3-B585-49DB-BD3A-92DC682C0C0F}|CoreReference.Contracts\\CoreReference.Contracts.csproj|solutionrelative:corereference.contracts\\requests\\subscribefilmsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649E52C3-B585-49DB-BD3A-92DC682C0C0F}|CoreReference.Contracts\\CoreReference.Contracts.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereference.contracts\\responses\\subscribefilmsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649E52C3-B585-49DB-BD3A-92DC682C0C0F}|CoreReference.Contracts\\CoreReference.Contracts.csproj|solutionrelative:corereference.contracts\\responses\\subscribefilmsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29047EA3-3998-400E-B51F-0D1187608235}|DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\dal.referencemydata\\context\\referenceconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29047EA3-3998-400E-B51F-0D1187608235}|DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj|solutionrelative:dal.referencemydata\\context\\referenceconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereferensemydata\\modules\\coremodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|solutionrelative:corereferensemydata\\modules\\coremodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29047EA3-3998-400E-B51F-0D1187608235}|DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\dal.referencemydata\\dal.referencemydata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29047EA3-3998-400E-B51F-0D1187608235}|DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj|solutionrelative:dal.referencemydata\\dal.referencemydata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereferensemydata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6B1B9E-6782-4ED9-8F21-7CFA92102628}|CoreReferenseMyData\\CoreReferenseMyData.csproj|solutionrelative:corereferensemydata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereference.service\\corereference.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|solutionrelative:corereference.service\\corereference.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\corereference.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4179FBF4-ADB5-4B90-862B-2F79FB6DFF75}|CoreReference.Service\\CoreReference.Service.csproj|solutionrelative:corereference.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29047EA3-3998-400E-B51F-0D1187608235}|DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\transferdataservices\\corereferensemydata\\dal.referencemydata\\migrations\\20240428063727_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29047EA3-3998-400E-B51F-0D1187608235}|DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj|solutionrelative:dal.referencemydata\\migrations\\20240428063727_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Dockerfile",
+              "RelativeDocumentMoniker": "CoreReferenseMyData\\Dockerfile",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Dockerfile",
+              "RelativeToolTip": "CoreReferenseMyData\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-05T20:09:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReferenceController.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Controllers\\ReferenceController.cs",
+              "RelativeDocumentMoniker": "CoreReferenseMyData\\Controllers\\ReferenceController.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Controllers\\ReferenceController.cs",
+              "RelativeToolTip": "CoreReferenseMyData\\Controllers\\ReferenceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:33.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetSubscribeFilmByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\Queiries\\GetSubscribeFilmByIdQuery.cs",
+              "RelativeDocumentMoniker": "CoreReference.Service\\Queiries\\GetSubscribeFilmByIdQuery.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\Queiries\\GetSubscribeFilmByIdQuery.cs",
+              "RelativeToolTip": "CoreReference.Service\\Queiries\\GetSubscribeFilmByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteSubscribeFilm.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\Commands\\DeleteSubscribeFilm.cs",
+              "RelativeDocumentMoniker": "CoreReference.Service\\Commands\\DeleteSubscribeFilm.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\Commands\\DeleteSubscribeFilm.cs",
+              "RelativeToolTip": "CoreReference.Service\\Commands\\DeleteSubscribeFilm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:33.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreReferenseMyData\\appsettings.json",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\appsettings.json",
+              "RelativeToolTip": "CoreReferenseMyData\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T20:09:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Program.cs",
+              "RelativeDocumentMoniker": "CoreReferenseMyData\\Program.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Program.cs",
+              "RelativeToolTip": "CoreReferenseMyData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:33.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoreReference.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\CoreReference.Contracts.csproj",
+              "RelativeDocumentMoniker": "CoreReference.Contracts\\CoreReference.Contracts.csproj",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\CoreReference.Contracts.csproj",
+              "RelativeToolTip": "CoreReference.Contracts\\CoreReference.Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T20:09:33.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CoreReferenseMyData\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CoreReferenseMyData\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T20:09:34.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DAL.ReferenceMyData.csproj",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj",
+              "RelativeDocumentMoniker": "DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj",
+              "RelativeToolTip": "DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T20:09:34.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostSubscribeFilm.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\Commands\\PostSubscribeFilm.cs",
+              "RelativeDocumentMoniker": "CoreReference.Service\\Commands\\PostSubscribeFilm.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\Commands\\PostSubscribeFilm.cs",
+              "RelativeToolTip": "CoreReference.Service\\Commands\\PostSubscribeFilm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:34.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubscribeFilmsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\Responses\\SubscribeFilmsResponse.cs",
+              "RelativeDocumentMoniker": "CoreReference.Contracts\\Responses\\SubscribeFilmsResponse.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\Responses\\SubscribeFilmsResponse.cs",
+              "RelativeToolTip": "CoreReference.Contracts\\Responses\\SubscribeFilmsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:34.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubscribeFilmsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\Requests\\SubscribeFilmsRequest.cs",
+              "RelativeDocumentMoniker": "CoreReference.Contracts\\Requests\\SubscribeFilmsRequest.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\Requests\\SubscribeFilmsRequest.cs",
+              "RelativeToolTip": "CoreReference.Contracts\\Requests\\SubscribeFilmsRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:34.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoreModules.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Modules\\CoreModules.cs",
+              "RelativeDocumentMoniker": "CoreReferenseMyData\\Modules\\CoreModules.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\Modules\\CoreModules.cs",
+              "RelativeToolTip": "CoreReferenseMyData\\Modules\\CoreModules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:34.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240428063727_Init.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\Migrations\\20240428063727_Init.cs",
+              "RelativeDocumentMoniker": "DAL.ReferenceMyData\\Migrations\\20240428063727_Init.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\Migrations\\20240428063727_Init.cs",
+              "RelativeToolTip": "DAL.ReferenceMyData\\Migrations\\20240428063727_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:34.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReferenceConext.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\Context\\ReferenceConext.cs",
+              "RelativeDocumentMoniker": "DAL.ReferenceMyData\\Context\\ReferenceConext.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\Context\\ReferenceConext.cs",
+              "RelativeToolTip": "DAL.ReferenceMyData\\Context\\ReferenceConext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:34.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\IRequestHandler.cs",
+              "RelativeDocumentMoniker": "CoreReference.Service\\IRequestHandler.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\IRequestHandler.cs",
+              "RelativeToolTip": "CoreReference.Service\\IRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:34.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoreReference.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\CoreReference.Service.csproj",
+              "RelativeDocumentMoniker": "CoreReference.Service\\CoreReference.Service.csproj",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\CoreReference.Service.csproj",
+              "RelativeToolTip": "CoreReference.Service\\CoreReference.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T20:09:34.057Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PutSubscribeFilm.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\Commands\\PutSubscribeFilm.cs",
+              "RelativeDocumentMoniker": "CoreReference.Service\\Commands\\PutSubscribeFilm.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\Commands\\PutSubscribeFilm.cs",
+              "RelativeToolTip": "CoreReference.Service\\Commands\\PutSubscribeFilm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:34.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubscribeFilm.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenceMyData.Enteties\\Enteties\\SubscribeFilm.cs",
+              "RelativeDocumentMoniker": "CoreReferenceMyData.Enteties\\Enteties\\SubscribeFilm.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenceMyData.Enteties\\Enteties\\SubscribeFilm.cs",
+              "RelativeToolTip": "CoreReferenceMyData.Enteties\\Enteties\\SubscribeFilm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T20:09:34.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoreReferenseMyData.csproj",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\CoreReferenseMyData.csproj",
+              "RelativeDocumentMoniker": "CoreReferenseMyData\\CoreReferenseMyData.csproj",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\CoreReferenseMyData.csproj",
+              "RelativeToolTip": "CoreReferenseMyData\\CoreReferenseMyData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T20:09:34.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wIJoaEIpjjIGuyRzHCr+CtVF/VtzD7Z85nvMV62HkykSKyRzIAueILcaFVuGnUrqjQ6yJEqSU/vAx/WqNlpQbQ==",
+  "dgSpecHash": "CHwIsLSF75GGQF6HNr0Kg2J4wVwm9bY7tgs9f49CTwcdVxjosUyVTqpKtc8NQTEUs8WaDv8Hfu/tD6Kb5k21Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\CoreReference.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\CoreReference.Contracts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\picma\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\picma\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

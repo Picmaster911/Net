@@ -4725,11 +4725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\CoreReferenseMyData.csproj",
+      "projectUniqueName": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\CoreReferenseMyData.csproj",
       "projectName": "CoreReferenseMyData",
-      "projectPath": "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\CoreReferenseMyData.csproj",
+      "projectPath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\CoreReferenseMyData.csproj",
       "packagesPath": "C:\\Users\\picma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\obj\\",
+      "outputPath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReferenseMyData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4751,14 +4751,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\CoreReference.Contracts.csproj": {
-              "projectPath": "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\CoreReference.Contracts.csproj"
+            "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\CoreReference.Contracts.csproj": {
+              "projectPath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Contracts\\CoreReference.Contracts.csproj"
             },
-            "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\CoreReference.Service.csproj": {
-              "projectPath": "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\CoreReference.Service.csproj"
+            "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\CoreReference.Service.csproj": {
+              "projectPath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\CoreReference.Service\\CoreReference.Service.csproj"
             },
-            "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj": {
-              "projectPath": "C:\\Users\\picma\\Desktop\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj"
+            "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj": {
+              "projectPath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\TransferDataServices\\CoreReferenseMyData\\DAL.ReferenceMyData\\DAL.ReferenceMyData.csproj"
             }
           }
         }
@@ -4767,6 +4767,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4819,7 +4824,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
