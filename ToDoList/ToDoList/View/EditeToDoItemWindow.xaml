@@ -1,0 +1,42 @@
+﻿<Window x:Class="ToDoList.View.EditeToDoItemWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoList.View"
+        xmlns:vm="clr-namespace:ToDoList.ViewModel"
+        mc:Ignorable="d"
+        Title="EditeToDoItemWindow" Height="170" Width="250">
+    <Window.DataContext>
+        <vm:EditeToDoItemWindowVM/>
+    </Window.DataContext>
+    <Grid>
+        <Grid Background="#FFC1D4ED">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Height="26" Text="Edite ToDo Item" HorizontalAlignment="Center"></TextBlock>
+            <TextBox Grid.Row="1" Text="{Binding NewNameToDo, UpdateSourceTrigger=PropertyChanged}" Margin="10,0,10,0">
+                <TextBox.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="3"/>
+                    </Style>
+                </TextBox.Resources>
+            </TextBox>
+            <Button  Grid.Row="3" Content="Edite ToDo Item" Margin="10,0,10,0" Background="#FF26FF6F"
+             Command="{Binding EditeTodoItemCommand}">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
+
+    </Grid>
+</Window>

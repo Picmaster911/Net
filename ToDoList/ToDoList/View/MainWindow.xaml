@@ -1,0 +1,96 @@
+﻿<Window x:Class="ToDoList.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoList.View"
+        mc:Ignorable="d"
+        xmlns:localt="clr-namespace:ToDoList.ViewModel"
+        Title="YourWindow" Height="450" Width="910">
+    <Window.DataContext>
+        <localt:MainWindowViewModel />
+    </Window.DataContext>
+
+    <Grid Background="#FF4E6F9C">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="ListBoxTodo"  Grid.RowSpan="2"
+           ItemsSource="{Binding ObsTodoColection}"
+                 SelectedItem="{Binding SelectedListTodo}"
+           ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+           ScrollViewer.VerticalScrollBarVisibility="Visible" Background="#FF82A8B5">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <ListBox x:Name="ListBoxItemTodo" Grid.Column="2"       
+           ItemsSource="{Binding ObsTodoColectionItem}"
+           ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+           ScrollViewer.VerticalScrollBarVisibility="Visible" Background="#FF087CA4">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <CheckBox Content="{Binding Content}" IsChecked="{Binding IsChecked}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            
+        </ListBox>
+        <StackPanel Grid.Row="1" Grid.Column="2" Orientation="Horizontal" HorizontalAlignment="Center">
+        <Button HorizontalAlignment="Right" Width="110" Grid.Row="1" Grid.Column="2" Content="Add new List ToDo" Margin="5" Background="#FF26FF6F"
+            Command="{Binding ShowWindowAddToDoListCommand}">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+            <Button HorizontalAlignment="Right" Width="95" Grid.Row="1" Grid.Column="2" Content="Edite List ToDo" Margin="5" Background="#FF26FF6F"
+             Command="{Binding ShowWindowEditeToDoListCommand}">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button HorizontalAlignment="Right" Width="100"  Content="Delete List ToDo" Margin="5" Background="Coral"
+               Command="{Binding DeleteToDoListCommand}">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+            <Button HorizontalAlignment="Right" Width="100"  Content="Add Item ToDo" Margin="5" Background="#FF26FF6F"
+        Command="{Binding ShowWindowAddToDoItemCommand}">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button HorizontalAlignment="Right" Width="100"  Content="Edite Item ToDo" Margin="5" Background="#FF26FF6F"
+        Command="{Binding ShowWindowEditeToDoItemCommand}">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+            <Button HorizontalAlignment="Right" Width="100"  Content="Delete Item Todo" Margin="5" Background="Coral"
+        Command="{Binding DeleteToDoItemCommand}">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
