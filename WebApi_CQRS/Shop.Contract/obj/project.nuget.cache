@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ryPwMELHMgDL8A36tRm8Ak1hwPcDgGpAXG1ra0NcrkP1T7xK0tPus/AGdUdQMRH48Q3mbvjAAI1Nu+uc3AHJw==",
+  "dgSpecHash": "ZTZDxfjhQZ0ownb8oLQFaiUeRHyfsO2Lqz7KhFRcb+xnlF0elec3+Pifo2yFZkInZUvBTBwKT2c/6csbpN8iVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\picma\\Desktop\\Net#\\WebApi_CQRS\\Shop.Contract\\Shop.Contract.csproj",
+  "projectFilePath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\WebApi_CQRS\\Shop.Contract\\Shop.Contract.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\picma\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\picma\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

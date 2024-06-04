@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\picma\\Desktop\\Net#\\WebApi_CQRS\\Shop.Data\\Shop.Data.csproj": {}
+    "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\WebApi_CQRS\\Shop.Data\\Shop.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\picma\\Desktop\\Net#\\WebApi_CQRS\\Shop.Data\\Shop.Data.csproj": {
+    "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\WebApi_CQRS\\Shop.Data\\Shop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\picma\\Desktop\\Net#\\WebApi_CQRS\\Shop.Data\\Shop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\WebApi_CQRS\\Shop.Data\\Shop.Data.csproj",
         "projectName": "Shop.Data",
-        "projectPath": "C:\\Users\\picma\\Desktop\\Net#\\WebApi_CQRS\\Shop.Data\\Shop.Data.csproj",
+        "projectPath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\WebApi_CQRS\\Shop.Data\\Shop.Data.csproj",
         "packagesPath": "C:\\Users\\picma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\picma\\Desktop\\Net#\\WebApi_CQRS\\Shop.Data\\obj\\",
+        "outputPath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\WebApi_CQRS\\Shop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -88,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

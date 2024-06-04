@@ -25,7 +25,7 @@
                 </TextBox.Resources>
             </TextBox>
             <Button  Grid.Row="3" Content="Add new ToDo Item" Margin="10,0,10,0" Background="#FF26FF6F"
-                     Command="{Binding AddTodoItemCommand}" CommandParameter="{Binding ElementName=AddToDoWindow}">
+                     Command="{Binding AddTodoItemCommand}">
                 <Button.Resources>
                     <Style TargetType="{x:Type Border}">
                         <Setter Property="CornerRadius" Value="5"/>

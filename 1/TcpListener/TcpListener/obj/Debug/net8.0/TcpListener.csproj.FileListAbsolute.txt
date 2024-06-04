@@ -1,0 +1,15 @@
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.exe
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.deps.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.runtimeconfig.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\bin\Debug\net8.0\TcpListener.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.AssemblyInfoInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.AssemblyInfo.cs
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.csproj.CoreCompileInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.sourcelink.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\refint\TcpListener.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\TcpListener.genruntimeconfig.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TcpListener\TcpListener\obj\Debug\net8.0\ref\TcpListener.dll

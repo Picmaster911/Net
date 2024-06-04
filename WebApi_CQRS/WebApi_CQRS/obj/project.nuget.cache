@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4gTHgDPFKX/oCkoXbodGnaygaVioqYXqjYviMkwzY8aiyjrPgP8MlEq8D7/ANalEJ6FzCvEktiZaW64v+pJHA==",
+  "dgSpecHash": "fen4QAOU1AwmTbqGBRvxGF2PIPrdtS69f0Ftz1lxNBOIUBfFPqFPsagQveFEvV0HoJFzvHmMvKo5yqWxr8Tk6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\picma\\Desktop\\Net#\\WebApi_CQRS\\WebApi_CQRS\\WebApi_CQRS.csproj",
+  "projectFilePath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\WebApi_CQRS\\WebApi_CQRS\\WebApi_CQRS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\picma\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\picma\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

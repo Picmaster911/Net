@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ucY1CnjlS5Y5B8o/RgLzQj0QhjpJPeUv26QhZpEFYPkk4yYFGuJX2f4WKWOvuRUTn0iYFtLBoWLaj4TwMU+bmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\picma\\OneDrive\\Рабочий стол\\Net#\\1\\ServerTcpIp\\ServerTcpIp\\ServerTcpIp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\picma\\.nuget\\packages\\system.device.gpio\\3.1.0\\system.device.gpio.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

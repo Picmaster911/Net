@@ -1,0 +1,16 @@
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\bin\Debug\net8.0\Contracts.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\bin\Debug\net8.0\Contracts.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date

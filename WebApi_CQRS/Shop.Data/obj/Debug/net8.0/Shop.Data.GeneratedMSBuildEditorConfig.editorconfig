@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Shop.Data
-build_property.ProjectDir = C:\Users\picma\Desktop\Net#\WebApi_CQRS\Shop.Data\
+build_property.ProjectDir = C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApi_CQRS\Shop.Data\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

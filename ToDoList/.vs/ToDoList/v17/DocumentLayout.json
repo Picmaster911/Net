@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\todolist\\todolist\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\todolist\\todolist\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\view\\editetodoitemwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\view\\editetodoitemwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\todolist\\todolist\\view\\editetodolistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\view\\editetodolistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\viewmodel\\editetodolistwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\viewmodel\\editetodolistwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\view\\addtodolistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -35,8 +19,36 @@
       "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\view\\addtodoitemwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\todolist\\todolist\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\viewmodel\\addtodoitemwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\viewmodel\\addtodoitemwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\model\\todoenteti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\model\\todoenteti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\viewmodel\\addtodolistwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\viewmodel\\addtodolistwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\view\\editetodolistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\view\\editetodolistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\viewmodel\\editetodolistwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\viewmodel\\editetodolistwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\viewmodel\\editetodoitemwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,18 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\infrastructure\\commands\\lambdacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\infrastructure\\commands\\lambdacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\viewmodel\\addtodoitemwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\viewmodel\\addtodoitemwindowvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\model\\todoenteti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\model\\todoenteti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C62B5FD0-8B01-4D2C-97C8-68FA7D39D313}|ToDoList\\ToDoList.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\todolist\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -69,12 +69,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 182,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 172,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "ToDoEnteti.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\Model\\ToDoEnteti.cs",
               "RelativeDocumentMoniker": "ToDoList\\Model\\ToDoEnteti.cs",
@@ -87,18 +87,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ToDoList\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "ToDoList\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:27:01.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EditeToDoItemWindow.xaml",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\EditeToDoItemWindow.xaml",
               "RelativeDocumentMoniker": "ToDoList\\View\\EditeToDoItemWindow.xaml",
               "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\EditeToDoItemWindow.xaml",
               "RelativeToolTip": "ToDoList\\View\\EditeToDoItemWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-10T21:21:14.03Z"
+              "WhenOpened": "2024-05-10T21:21:14.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "AddTodoItemWindowVM.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\AddTodoItemWindowVM.cs",
               "RelativeDocumentMoniker": "ToDoList\\ViewModel\\AddTodoItemWindowVM.cs",
@@ -110,7 +123,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddToDoItemWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\AddToDoItemWindow.xaml",
+              "RelativeDocumentMoniker": "ToDoList\\View\\AddToDoItemWindow.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\AddToDoItemWindow.xaml",
+              "RelativeToolTip": "ToDoList\\View\\AddToDoItemWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T21:21:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddToDoListWindowVM.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\AddToDoListWindowVM.cs",
+              "RelativeDocumentMoniker": "ToDoList\\ViewModel\\AddToDoListWindowVM.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\AddToDoListWindowVM.cs",
+              "RelativeToolTip": "ToDoList\\ViewModel\\AddToDoListWindowVM.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:37:13.753Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AddToDoListWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\AddToDoListWindow.xaml",
+              "RelativeDocumentMoniker": "ToDoList\\View\\AddToDoListWindow.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\AddToDoListWindow.xaml",
+              "RelativeToolTip": "ToDoList\\View\\AddToDoListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-11T21:38:00.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ToDoList\\View\\MainWindow.xaml",
@@ -122,62 +171,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\App.xaml.cs",
               "RelativeDocumentMoniker": "ToDoList\\App.xaml.cs",
               "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\App.xaml.cs",
               "RelativeToolTip": "ToDoList\\App.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAQwC4AAAAlAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T21:17:48.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddToDoItemWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\AddToDoItemWindow.xaml",
-              "RelativeDocumentMoniker": "ToDoList\\View\\AddToDoItemWindow.xaml",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\AddToDoItemWindow.xaml",
-              "RelativeToolTip": "ToDoList\\View\\AddToDoItemWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-10T21:21:09.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddToDoListWindowVM.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\AddToDoListWindowVM.cs",
-              "RelativeDocumentMoniker": "ToDoList\\ViewModel\\AddToDoListWindowVM.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\AddToDoListWindowVM.cs",
-              "RelativeToolTip": "ToDoList\\ViewModel\\AddToDoListWindowVM.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T07:37:13.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddToDoListWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\AddToDoListWindow.xaml",
-              "RelativeDocumentMoniker": "ToDoList\\View\\AddToDoListWindow.xaml",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\AddToDoListWindow.xaml",
-              "RelativeToolTip": "ToDoList\\View\\AddToDoListWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-11T21:38:00.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "ToDoList\\ViewModel\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\ViewModelBase.cs",
-              "RelativeToolTip": "ToDoList\\ViewModel\\ViewModelBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T21:27:01.264Z"
+              "WhenOpened": "2024-05-10T21:17:48.597Z"
             },
             {
               "$type": "Document",
@@ -194,20 +196,19 @@
           ]
         },
         {
-          "DockedWidth": 218,
+          "DockedWidth": 228,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "EditeToDoListWindow.xaml",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\EditeToDoListWindow.xaml",
               "RelativeDocumentMoniker": "ToDoList\\View\\EditeToDoListWindow.xaml",
               "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\View\\EditeToDoListWindow.xaml",
               "RelativeToolTip": "ToDoList\\View\\EditeToDoListWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-10T21:21:15.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T21:21:15.33Z"
             },
             {
               "$type": "Document",
@@ -217,14 +218,14 @@
               "RelativeDocumentMoniker": "ToDoList\\ViewModel\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\MainWindowViewModel.cs",
               "RelativeToolTip": "ToDoList\\ViewModel\\MainWindowViewModel.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAowHoAAAAeAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwCQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T07:43:52.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "EditeToDoListWindowVM.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\EditeToDoListWindowVM.cs",
               "RelativeDocumentMoniker": "ToDoList\\ViewModel\\EditeToDoListWindowVM.cs",
@@ -236,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "EditeToDoItemWindowVM.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\ViewModel\\EditeToDoItemWindowVM.cs",
               "RelativeDocumentMoniker": "ToDoList\\ViewModel\\EditeToDoItemWindowVM.cs",
@@ -248,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "LambdaCommand.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\ToDoList\\ToDoList\\Infrastructure\\Commands\\LambdaCommand.cs",
               "RelativeDocumentMoniker": "ToDoList\\Infrastructure\\Commands\\LambdaCommand.cs",

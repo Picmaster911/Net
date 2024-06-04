@@ -43,14 +43,14 @@
             
         </ListBox>
         <StackPanel Grid.Row="1" Grid.Column="2" Orientation="Horizontal" HorizontalAlignment="Center">
-        <Button HorizontalAlignment="Right" Width="110" Grid.Row="1" Grid.Column="2" Content="Add new List ToDo" Margin="5" Background="#FF26FF6F"
+            <Button HorizontalAlignment="Right" Width="110" Grid.Row="1" Grid.Column="2" Content="Add new List ToDo" Margin="5" Background="#FF26FF6F"
             Command="{Binding ShowWindowAddToDoListCommand}">
-            <Button.Resources>
-                <Style TargetType="{x:Type Border}">
-                    <Setter Property="CornerRadius" Value="5"/>
-                </Style>
-            </Button.Resources>
-        </Button>
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
             <Button HorizontalAlignment="Right" Width="95" Grid.Row="1" Grid.Column="2" Content="Edite List ToDo" Margin="5" Background="#FF26FF6F"
              Command="{Binding ShowWindowEditeToDoListCommand}">
                 <Button.Resources>
@@ -61,12 +61,12 @@
             </Button>
             <Button HorizontalAlignment="Right" Width="100"  Content="Delete List ToDo" Margin="5" Background="Coral"
                Command="{Binding DeleteToDoListCommand}">
-            <Button.Resources>
-                <Style TargetType="{x:Type Border}">
-                    <Setter Property="CornerRadius" Value="5"/>
-                </Style>
-            </Button.Resources>
-        </Button>
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
             <Button HorizontalAlignment="Right" Width="100"  Content="Add Item ToDo" Margin="5" Background="#FF26FF6F"
         Command="{Binding ShowWindowAddToDoItemCommand}">
                 <Button.Resources>

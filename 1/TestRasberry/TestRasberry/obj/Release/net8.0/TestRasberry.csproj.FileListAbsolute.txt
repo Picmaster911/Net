@@ -1,0 +1,15 @@
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\bin\Release\net8.0\TestRasberry.exe
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\bin\Release\net8.0\TestRasberry.deps.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\bin\Release\net8.0\TestRasberry.runtimeconfig.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\bin\Release\net8.0\TestRasberry.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\bin\Release\net8.0\TestRasberry.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\TestRasberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\TestRasberry.AssemblyInfoInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\TestRasberry.AssemblyInfo.cs
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\TestRasberry.csproj.CoreCompileInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\TestRasberry.sourcelink.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\TestRasberry.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\refint\TestRasberry.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\TestRasberry.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\TestRasberry.genruntimeconfig.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\TestRasberry\TestRasberry\obj\Release\net8.0\ref\TestRasberry.dll

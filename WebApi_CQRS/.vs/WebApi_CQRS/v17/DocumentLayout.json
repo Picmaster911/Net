@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BD55BD-78FF-4AC7-ACD4-9553D26C965F}|WebApi_CQRS\\WebApi_CQRS.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\webapi_cqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8BD55BD-78FF-4AC7-ACD4-9553D26C965F}|WebApi_CQRS\\WebApi_CQRS.csproj|solutionrelative:webapi_cqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC3A23-BF0C-41A3-B53C-4A725FA3A2B6}|Shop.Service\\Shop.Service.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\webapi_cqrs\\shop.service\\queiries\\cetegory\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC3A23-BF0C-41A3-B53C-4A725FA3A2B6}|Shop.Service\\Shop.Service.csproj|solutionrelative:shop.service\\queiries\\cetegory\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC3A23-BF0C-41A3-B53C-4A725FA3A2B6}|Shop.Service\\Shop.Service.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\shop.service\\commands\\categorys\\postcaregorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC3A23-BF0C-41A3-B53C-4A725FA3A2B6}|Shop.Service\\Shop.Service.csproj|solutionrelative:shop.service\\commands\\categorys\\postcaregorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC3A23-BF0C-41A3-B53C-4A725FA3A2B6}|Shop.Service\\Shop.Service.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\shop.service\\commands\\categorys\\putcaregorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC3A23-BF0C-41A3-B53C-4A725FA3A2B6}|Shop.Service\\Shop.Service.csproj|solutionrelative:shop.service\\commands\\categorys\\putcaregorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BD55BD-78FF-4AC7-ACD4-9553D26C965F}|WebApi_CQRS\\WebApi_CQRS.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\webapi_cqrs\\webapi_cqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8BD55BD-78FF-4AC7-ACD4-9553D26C965F}|WebApi_CQRS\\WebApi_CQRS.csproj|solutionrelative:webapi_cqrs\\webapi_cqrs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\shop.data\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|solutionrelative:shop.data\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\shop.data\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|solutionrelative:shop.data\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\shop.data\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|solutionrelative:shop.data\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\shop.data\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|solutionrelative:shop.data\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\shop.data\\context\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F527DB97-132D-4A74-BB4C-289EFEB8A7EB}|Shop.Data\\Shop.Data.csproj|solutionrelative:shop.data\\context\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BD55BD-78FF-4AC7-ACD4-9553D26C965F}|WebApi_CQRS\\WebApi_CQRS.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\webapi_cqrs\\modules\\coremodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BD55BD-78FF-4AC7-ACD4-9553D26C965F}|WebApi_CQRS\\WebApi_CQRS.csproj|solutionrelative:webapi_cqrs\\modules\\coremodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BD55BD-78FF-4AC7-ACD4-9553D26C965F}|WebApi_CQRS\\WebApi_CQRS.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\webapi_cqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BD55BD-78FF-4AC7-ACD4-9553D26C965F}|WebApi_CQRS\\WebApi_CQRS.csproj|solutionrelative:webapi_cqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18135DA-4C3B-4774-B131-5587301939D3}|Shop.Contract\\Shop.Contract.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\shop.contract\\responses\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18135DA-4C3B-4774-B131-5587301939D3}|Shop.Contract\\Shop.Contract.csproj|solutionrelative:shop.contract\\responses\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC3A23-BF0C-41A3-B53C-4A725FA3A2B6}|Shop.Service\\Shop.Service.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\shop.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC3A23-BF0C-41A3-B53C-4A725FA3A2B6}|Shop.Service\\Shop.Service.csproj|solutionrelative:shop.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostCaregoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Service\\Commands\\Categorys\\PostCaregoryCommand.cs",
+              "RelativeDocumentMoniker": "Shop.Service\\Commands\\Categorys\\PostCaregoryCommand.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Service\\Commands\\Categorys\\PostCaregoryCommand.cs",
+              "RelativeToolTip": "Shop.Service\\Commands\\Categorys\\PostCaregoryCommand.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PutCaregoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Service\\Commands\\Categorys\\PutCaregoryCommand.cs",
+              "RelativeDocumentMoniker": "Shop.Service\\Commands\\Categorys\\PutCaregoryCommand.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Service\\Commands\\Categorys\\PutCaregoryCommand.cs",
+              "RelativeToolTip": "Shop.Service\\Commands\\Categorys\\PutCaregoryCommand.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApi_CQRS",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\WebApi_CQRS\\WebApi_CQRS.csproj",
+              "RelativeDocumentMoniker": "WebApi_CQRS\\WebApi_CQRS.csproj",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\WebApi_CQRS\\WebApi_CQRS.csproj",
+              "RelativeToolTip": "WebApi_CQRS\\WebApi_CQRS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003627|",
+              "WhenOpened": "2024-05-25T18:39:49.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "Shop.Data\\Entites\\Product.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Entites\\Product.cs",
+              "RelativeToolTip": "Shop.Data\\Entites\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Entites\\Order.cs",
+              "RelativeDocumentMoniker": "Shop.Data\\Entites\\Order.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Entites\\Order.cs",
+              "RelativeToolTip": "Shop.Data\\Entites\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Entites\\Customer.cs",
+              "RelativeDocumentMoniker": "Shop.Data\\Entites\\Customer.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Entites\\Customer.cs",
+              "RelativeToolTip": "Shop.Data\\Entites\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "Shop.Data\\Entites\\Category.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Entites\\Category.cs",
+              "RelativeToolTip": "Shop.Data\\Entites\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\WebApi_CQRS\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi_CQRS\\appsettings.json",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\WebApi_CQRS\\appsettings.json",
+              "RelativeToolTip": "WebApi_CQRS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T18:39:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoreModules.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\WebApi_CQRS\\Modules\\CoreModules.cs",
+              "RelativeDocumentMoniker": "WebApi_CQRS\\Modules\\CoreModules.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\WebApi_CQRS\\Modules\\CoreModules.cs",
+              "RelativeToolTip": "WebApi_CQRS\\Modules\\CoreModules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\WebApi_CQRS\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi_CQRS\\Program.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\WebApi_CQRS\\Program.cs",
+              "RelativeToolTip": "WebApi_CQRS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Context\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Shop.Data\\Context\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Data\\Context\\ShopContext.cs",
+              "RelativeToolTip": "Shop.Data\\Context\\ShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Contract\\Responses\\CategoryResponse.cs",
+              "RelativeDocumentMoniker": "Shop.Contract\\Responses\\CategoryResponse.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Contract\\Responses\\CategoryResponse.cs",
+              "RelativeToolTip": "Shop.Contract\\Responses\\CategoryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCategoryByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Service\\Queiries\\Cetegory\\GetCategoryByIdQuery.cs",
+              "RelativeDocumentMoniker": "Shop.Service\\Queiries\\Cetegory\\GetCategoryByIdQuery.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Service\\Queiries\\Cetegory\\GetCategoryByIdQuery.cs",
+              "RelativeToolTip": "Shop.Service\\Queiries\\Cetegory\\GetCategoryByIdQuery.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Service\\IRequestHandler.cs",
+              "RelativeDocumentMoniker": "Shop.Service\\IRequestHandler.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApi_CQRS\\Shop.Service\\IRequestHandler.cs",
+              "RelativeToolTip": "Shop.Service\\IRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:39:49.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\UDP_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\UDP_Task.AssemblyInfoInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\UDP_Task.AssemblyInfo.cs
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\UDP_Task.csproj.CoreCompileInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\UDP_Task.sourcelink.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\bin\Debug\net8.0\UDP_Task.exe
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\bin\Debug\net8.0\UDP_Task.deps.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\bin\Debug\net8.0\UDP_Task.runtimeconfig.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\bin\Debug\net8.0\UDP_Task.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\bin\Debug\net8.0\UDP_Task.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\UDP_Task.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\refint\UDP_Task.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\UDP_Task.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\UDP_Task.genruntimeconfig.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\1\UDP_Task\UDP_Task\obj\Debug\net8.0\ref\UDP_Task.dll
