@@ -93,3 +93,7 @@ C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\AppHealth\obj\Deb
 C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\AppHealth\obj\Debug\net8.0-windows\View\AddPerssonWindow.baml
 C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\AppHealth\obj\Debug\net8.0-windows\View\CursesItem.g.cs
 C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\AppHealth\obj\Debug\net8.0-windows\View\CursesItem.baml
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\AppHealth\obj\Debug\net8.0-windows\View\AllNotifyColWindow.g.cs
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\AppHealth\obj\Debug\net8.0-windows\View\Elements\NotifyItem.g.cs
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\AppHealth\obj\Debug\net8.0-windows\View\AllNotifyColWindow.baml
+C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\AppHealth\obj\Debug\net8.0-windows\View\Elements\NotifyItem.baml

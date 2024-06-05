@@ -1,0 +1,30 @@
+﻿<Window x:Class="AppHealth.View.AllNotifyColWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:NotifyElement="clr-namespace:AppHealth.View.Elements"
+        xmlns:local="clr-namespace:AppHealth.View"
+        mc:Ignorable="d"
+        Title="AllNotifyColWindow" Height="450" Width="800">
+    <Grid Background="#FFC1D4ED">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        
+        <ListBox x:Name="SettingCurses" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="7" Grid.RowSpan="2"
+                 Margin="7"
+    ItemsSource="{Binding ListNotify}"
+    ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+    ScrollViewer.VerticalScrollBarVisibility="Visible" Background="#FFDCEBEF">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <NotifyElement:NotifyItem Width="1000" Height="30"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

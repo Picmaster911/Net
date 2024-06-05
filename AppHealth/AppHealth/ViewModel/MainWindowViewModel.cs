@@ -25,8 +25,9 @@ namespace AppHealth.ViewModel
 
         private IApplicationDbContext _dbContext;
 
+        #region ButtonCommandsMethod
         #region ButtonCommandsName
-     
+
         public ICommand ShowAddSetingWindowCommand { get; set; }
         #endregion
         public ObservableCollection<PersonItemViewModel> PersonItemVMObserv {get; set;}
@@ -55,8 +56,8 @@ namespace AppHealth.ViewModel
         //       }
         //        return new BitmapImage();
         //    }
-        #region ButtonCommandsMethod
-        #endregion
+     
+      
         public ICommand ShowAddPersonWindowCommand { get; }
 
         private void OnAddPerssonWindowCommand(object p)
@@ -78,7 +79,6 @@ namespace AppHealth.ViewModel
         {
             return true;
         }
-
-    
     }
+    #endregion
 }

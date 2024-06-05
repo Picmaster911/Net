@@ -1,9 +1,12 @@
 ﻿using AppHealth.Infrastructure;
 using AppHealth.Model;
+using AppHealth.View;
 using AppHealth.View.Elements;
 using AppHealth.ViewModel.Elements;
 using Contracts;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.ObjectModel;
+using System.Windows;
 using System.Windows.Input;
 using System.Xml.Linq;
 
@@ -22,7 +25,9 @@ namespace AppHealth.ViewModel
         private string _description;
         private IApplicationDbContext _applicationDbContext;
         PersonItemViewModel _personItem;
-        public ObservableCollection<CursesItemViewModel> CursesItems {  get; set; } 
+        private Window _allNotifyColWindow;
+        private Window _mainWindow;
+        public ObservableCollection<CursesItemViewModel> CursesItems {  get; set; }
 
         public string NameCurs {get { return _nameCurs;} set { _nameCurs = value; OnPropertyChanged();}}
         public DateTime StartDate { get { return _startDate; } set { _startDate = value; OnPropertyChanged(); } }
@@ -35,6 +40,10 @@ namespace AppHealth.ViewModel
         public string Description { get { return _description; } set { _description = value; OnPropertyChanged(); } }
         public AddSettingWindowViewModel(IApplicationDbContext applicationDbContext, PersonItemViewModel personItem )
         {
+            ShowAllNotifyColWindowCommand = new LambdaCommand(OnShowAllNotifyColWindowCommand, CanShowAllNotifyColWindowCommand);
+            AddCursButton = new LambdaCommand(OnAddCursButton, CanAddCursButon);
+            ButtonDeleteItem = new LambdaCommand(OnButtonDeleteItem, CanButtonDeleteItem);
+            _mainWindow = Application.Current.MainWindow;
             _applicationDbContext = applicationDbContext;
             _personItem = personItem;
             CursesItemVM();
@@ -46,8 +55,6 @@ namespace AppHealth.ViewModel
             {
                 _personItem.Curses.ToList().ForEach(curses => { CursesItems.Add(curses); });
             }         
-            AddCursButton =  new LambdaCommand (OnAddCursButton,CanAddCursButon);
-            ButtonDeleteItem =new LambdaCommand (OnButtonDeleteItem,CanButtonDeleteItem);
         }
         #region  ButtonCommandsMethod
         public ICommand AddCursButton {get; set;}   
@@ -114,5 +121,37 @@ namespace AppHealth.ViewModel
         }
 
         #endregion
+
+
+        public ICommand ShowAllNotifyColWindowCommand { get; }
+
+        private void OnShowAllNotifyColWindowCommand(object p)
+        {
+            var cursesItem = p as CursesItemViewModel;
+            _allNotifyColWindow = new AllNotifyColWindow();
+            var listMesage = cursesItem.Message;
+            var allNotifyColWindowFM = new AllNotifyColWindowViewModel(CreateColection(listMesage));
+            _allNotifyColWindow.DataContext = allNotifyColWindowFM;
+            _allNotifyColWindow.Owner = _mainWindow;
+            _allNotifyColWindow.WindowStartupLocation = WindowStartupLocation.CenterOwner;
+
+            _allNotifyColWindow.ShowDialog();
+        }
+        private bool CanShowAllNotifyColWindowCommand(object p)
+        {
+            return true;
+        }
+
+        private ObservableCollection<NotifyItemViewModel> CreateColection (List <Notification> list )
+        {
+         var observColection = new ObservableCollection <NotifyItemViewModel> ();
+            list.ForEach(x => observColection.Add(new NotifyItemViewModel {
+                Id = x.Id,
+                Messege = x.Message,
+                Accept = x.Accept,
+                DateTimeShowMassege = x.DateTimeShowMassege,
+            }));
+            return observColection; 
+        }
     }
 }

@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:AppHealth.View"
         xmlns:elements="clr-namespace:AppHealth.View.Elements"
         mc:Ignorable="d"
-        Title="AddSettingWindow" Height="250" Width="1010">
+        Title="AddSettingWindow" Height="250" Width="1060">
     <Grid Background="#FFC1D4ED">
         <Grid.RowDefinitions>
             <RowDefinition Height="1*"/>

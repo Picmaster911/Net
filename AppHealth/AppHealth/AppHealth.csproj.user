@@ -13,7 +13,13 @@
     <Compile Update="View\AddSettingWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\AllNotifyColWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\CursesItem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Elements\NotifyItem.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\Elements\PersonItem.xaml.cs">
@@ -27,7 +33,13 @@
     <Page Update="View\AddSettingWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="View\AllNotifyColWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="View\CursesItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Elements\NotifyItem.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="View\Elements\PersonItem.xaml">

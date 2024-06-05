@@ -36,6 +36,7 @@ namespace AppHealth.Model
                     ItemsInDay = p.ItemsInDay,
                     InADay = p.InADay,
                     Description = p.Description,
+                    Message = p.Message,
                 }).ToList(),
             }).ToList();
 

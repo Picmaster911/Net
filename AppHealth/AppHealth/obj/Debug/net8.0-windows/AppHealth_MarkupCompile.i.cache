@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\picma\OneDrive\Рабочий стол\Net#\AppHealth\AppHealth\App.xaml
-51208022271
+7-772682641
 
-22417066259
+26469239991
 238544132075
-View\AddPerssonWindow.xaml;View\AddSettingWindow.xaml;View\CursesItem.xaml;View\Elements\PersonItem.xaml;View\MainWindow.xaml;
+View\AddPerssonWindow.xaml;View\AddSettingWindow.xaml;View\AllNotifyColWindow.xaml;View\CursesItem.xaml;View\Elements\NotifyItem.xaml;View\Elements\PersonItem.xaml;View\MainWindow.xaml;
 
 False
 
