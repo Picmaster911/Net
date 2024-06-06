@@ -112,8 +112,7 @@ namespace AppHealth.ViewModel
                     person.Curses.Remove(needItem);
                 }
                 _applicationDbContext.SaveChangesAsync();
-            }
-           
+            }          
         }
         private bool CanButtonDeleteItem (object p)
         {
@@ -121,7 +120,6 @@ namespace AppHealth.ViewModel
         }
 
         #endregion
-
 
         public ICommand ShowAllNotifyColWindowCommand { get; }
 

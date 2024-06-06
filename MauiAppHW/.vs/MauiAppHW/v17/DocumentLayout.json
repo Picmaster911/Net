@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\mauiapphw\\mauiapphw\\mauiprogramvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|solutionrelative:mauiapphw\\mauiprogramvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\mauiapphw\\mauiapphw\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|solutionrelative:mauiapphw\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\mauiapphw\\mauiapphw\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|solutionrelative:mauiapphw\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\mauiapphw\\mauiapphw\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|solutionrelative:mauiapphw\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\mauiapphw\\mauiapphw\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|solutionrelative:mauiapphw\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\mauiapphw\\mauiapphw\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|solutionrelative:mauiapphw\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\mauiapphw\\mauiapphw\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF61FA29-AF15-433D-BD55-3188A6271177}|MauiAppHW\\MauiAppHW.csproj|solutionrelative:mauiapphw\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgramVM.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\MauiProgramVM.cs",
+              "RelativeDocumentMoniker": "MauiAppHW\\MauiProgramVM.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\MauiProgramVM.cs",
+              "RelativeToolTip": "MauiAppHW\\MauiProgramVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:43:12.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppHW\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\App.xaml.cs",
+              "RelativeToolTip": "MauiAppHW\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:32:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\App.xaml",
+              "RelativeDocumentMoniker": "MauiAppHW\\App.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\App.xaml",
+              "RelativeToolTip": "MauiAppHW\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T19:32:33.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiAppHW\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\AppShell.xaml",
+              "RelativeToolTip": "MauiAppHW\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T19:32:30.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppHW\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiAppHW\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:26:31.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiAppHW\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\MauiProgram.cs",
+              "RelativeToolTip": "MauiAppHW\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:59:45.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiAppHW\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiAppHW\\MauiAppHW\\MainPage.xaml",
+              "RelativeToolTip": "MauiAppHW\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T18:58:39.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
