@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPhoneCatalog.Views.MainPage"
+             xmlns:models="clr-namespace:PhoneCatalog.DAL.Entities;assembly=PhoneCatalog.DAL">
+    
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <CollectionView 
+              VerticalOptions="Fill"
+                SelectionChangedCommand="{Binding ItemSelectedCommand}"
+                SelectionChangedCommandParameter="{Binding Source={RelativeSource Self},Path = SelectedItem}"
+              ItemsSource="{Binding PhoneItems}"
+              SelectionMode="Single">
+                <CollectionView.ItemTemplate >
+                    <DataTemplate x:DataType="models:PhoneItem">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1*"/>
+                                <ColumnDefinition Width="1*"/>
+                                <ColumnDefinition Width="1*"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Text="{Binding Id}"
+                                   Grid.Column="0"
+                             VerticalTextAlignment="Center"/>
+                            <Label Text="{Binding Name}"
+                                   Grid.Column="1"
+                           VerticalTextAlignment="Center"/>
+                            <Label Text="{Binding Phone}"
+                                   Grid.Column="2"
+                            VerticalTextAlignment="Center"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <StackLayout>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="1*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="1*"/>
+                    </Grid.RowDefinitions>
+                    <Button
+                        Margin="10"
+                        Grid.Row="0"
+                        Grid.Column="1"
+                        Grid.ColumnSpan="2"
+                        Text="Add Phone"
+                        Command="{Binding GoAddPhone}"
+                        HorizontalOptions="Fill" />
+                </Grid>
+            </StackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

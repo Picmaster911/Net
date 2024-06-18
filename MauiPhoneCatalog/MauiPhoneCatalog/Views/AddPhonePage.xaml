@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPhoneCatalog.Views.AddPhonePage"
+             Title="AddPhonePage"
+             xmlns:local="clr-namespace:MauiPhoneCatalog.ViewModels"
+             xmlns:material="http://schemas.enisn-projects.io/dotnet/maui/uraniumui/material"
+             x:DataType="local:AddPhonePageVM">
+    
+    <VerticalStackLayout>
+        <Label 
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label Text="ID:" />
+        <Label Text="Name:" />
+        <Entry Placeholder="Name" Text="{Binding Name}" />
+        <Label Text="New mail:" />
+        <Entry Placeholder="Email" Keyboard="Email" Text="{Binding Email}"  />
+        <Label Text="New Phone Number:" />
+        <Entry Placeholder="Phone" Keyboard="Telephone" Text="{Binding Phone}" />
+        <Button 
+            Text="Add Item Pjone"
+            Command="{Binding ButtonAddPhone}"
+            />
+    </VerticalStackLayout>
+</ContentPage>

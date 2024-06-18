@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\apphealth\\apphealth\\viewmodel\\addsettingwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\viewmodel\\addsettingwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\model\\createcurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\model\\createcurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\view\\addsettingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\view\\addsettingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\apphealth\\apphealth\\view\\elements\\notifyitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\view\\elements\\notifyitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\viewmodel\\elements\\notifyitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\viewmodel\\elements\\notifyitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\view\\allnotifycolwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -29,6 +13,50 @@
     {
       "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\view\\cursesitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\view\\cursesitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\apphealth\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\dal\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|solutionrelative:dal\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\apphealth\\apphealth\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\viewmodel\\addsettingwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\viewmodel\\addsettingwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\model\\createcurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\model\\createcurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\view\\elements\\notifyitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\view\\elements\\notifyitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\viewmodel\\elements\\notifyitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\viewmodel\\elements\\notifyitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\viewmodel\\allnotifycolwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\viewmodel\\elements\\personitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\viewmodel\\elements\\cursesitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\viewmodel\\elements\\cursesitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5295BF68-87A9-4212-AEEA-48D725930E88}|Contracts\\Contracts.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\contracts\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5295BF68-87A9-4212-AEEA-48D725930E88}|Contracts\\Contracts.csproj|solutionrelative:contracts\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5295BF68-87A9-4212-AEEA-48D725930E88}|Contracts\\Contracts.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\contracts\\cursesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,28 +126,8 @@
       "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\infrastructure\\commands\\lambdacommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\dal\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A7EA555-C8D8-45C3-A19A-52738201A020}|DAL\\DAL.csproj|solutionrelative:dal\\dataworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5295BF68-87A9-4212-AEEA-48D725930E88}|Contracts\\Contracts.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\contracts\\contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5295BF68-87A9-4212-AEEA-48D725930E88}|Contracts\\Contracts.csproj|solutionrelative:contracts\\contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|solutionrelative:apphealth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80644650-4F6D-4047-B399-0DCBCAA48290}|AppHealth\\AppHealth.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\apphealth\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,61 +147,37 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 245,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 231,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "NotifyItemViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\Elements\\NotifyItemViewModel.cs",
-              "RelativeDocumentMoniker": "AppHealth\\ViewModel\\Elements\\NotifyItemViewModel.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\Elements\\NotifyItemViewModel.cs",
-              "RelativeToolTip": "AppHealth\\ViewModel\\Elements\\NotifyItemViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAaAAAA",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:47:54.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddSettingWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\AddSettingWindowViewModel.cs",
-              "RelativeDocumentMoniker": "AppHealth\\ViewModel\\AddSettingWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\AddSettingWindowViewModel.cs",
-              "RelativeToolTip": "AppHealth\\ViewModel\\AddSettingWindowViewModel.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAMwJEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T17:33:00.882Z",
+              "WhenOpened": "2024-05-25T18:46:33.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PersonItemViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\Elements\\PersonItemViewModel.cs",
-              "RelativeDocumentMoniker": "AppHealth\\ViewModel\\Elements\\PersonItemViewModel.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\Elements\\PersonItemViewModel.cs",
-              "RelativeToolTip": "AppHealth\\ViewModel\\Elements\\PersonItemViewModel.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T20:22:34.739Z"
+              "DocumentIndex": 7,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T18:44:05.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddSettingWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddSettingWindow.xaml",
-              "RelativeDocumentMoniker": "AppHealth\\View\\AddSettingWindow.xaml",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddSettingWindow.xaml",
-              "RelativeToolTip": "AppHealth\\View\\AddSettingWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-03T19:05:28.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "CursesItemViewModel.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\Elements\\CursesItemViewModel.cs",
               "RelativeDocumentMoniker": "AppHealth\\ViewModel\\Elements\\CursesItemViewModel.cs",
@@ -213,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "CreateCurs.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Model\\CreateCurs.cs",
               "RelativeDocumentMoniker": "AppHealth\\Model\\CreateCurs.cs",
@@ -221,153 +197,59 @@
               "RelativeToolTip": "AppHealth\\Model\\CreateCurs.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:26:43.98Z",
+              "WhenOpened": "2024-06-03T14:26:43.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\Elements\\PersonItemViewModel.cs",
+              "RelativeDocumentMoniker": "AppHealth\\ViewModel\\Elements\\PersonItemViewModel.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\Elements\\PersonItemViewModel.cs",
+              "RelativeToolTip": "AppHealth\\ViewModel\\Elements\\PersonItemViewModel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:22:34.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataWorker.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\DataWorker.cs",
+              "RelativeDocumentMoniker": "DAL\\DataWorker.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\DataWorker.cs",
+              "RelativeToolTip": "DAL\\DataWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:45:01.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddSettingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddSettingWindow.xaml",
+              "RelativeDocumentMoniker": "AppHealth\\View\\AddSettingWindow.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddSettingWindow.xaml",
+              "RelativeToolTip": "AppHealth\\View\\AddSettingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T19:05:28.811Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\Contracts\\Notification.cs",
-              "RelativeDocumentMoniker": "Contracts\\Notification.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\Contracts\\Notification.cs",
-              "RelativeToolTip": "Contracts\\Notification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:48:01.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AppHealth\\View\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\MainWindow.xaml",
               "RelativeToolTip": "AppHealth\\View\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-02T19:24:03.772Z"
+              "WhenOpened": "2024-06-02T19:24:03.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PersonItem.xaml",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\Elements\\PersonItem.xaml",
-              "RelativeDocumentMoniker": "AppHealth\\View\\Elements\\PersonItem.xaml",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\Elements\\PersonItem.xaml",
-              "RelativeToolTip": "AppHealth\\View\\Elements\\PersonItem.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-02T14:53:24.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "AppHealth\\ViewModel\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeToolTip": "AppHealth\\ViewModel\\MainWindowViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T18:36:58.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CursesItem.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\Contracts\\CursesItem.cs",
-              "RelativeDocumentMoniker": "Contracts\\CursesItem.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\Contracts\\CursesItem.cs",
-              "RelativeToolTip": "Contracts\\CursesItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T21:19:07.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TimerCheckEvent.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Model\\TimerCheckEvent.cs",
-              "RelativeDocumentMoniker": "AppHealth\\Model\\TimerCheckEvent.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Model\\TimerCheckEvent.cs",
-              "RelativeToolTip": "AppHealth\\Model\\TimerCheckEvent.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwD8AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T17:32:04.432Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ExecutionContext.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
-              "ToolTip": "C:\\Users\\picma\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
-              "ViewState": "AQIAALEAAAAAAAAAAAAcwMoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T19:42:34.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AddPerssonWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddPerssonWindow.xaml",
-              "RelativeDocumentMoniker": "AppHealth\\View\\AddPerssonWindow.xaml",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddPerssonWindow.xaml",
-              "RelativeToolTip": "AppHealth\\View\\AddPerssonWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-02T18:59:49.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AddPerssonWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddPerssonWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AppHealth\\View\\AddPerssonWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddPerssonWindow.xaml.cs",
-              "RelativeToolTip": "AppHealth\\View\\AddPerssonWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T11:42:36.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "LambdaCommand.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Infrastructure\\Commands\\LambdaCommand.cs",
-              "RelativeDocumentMoniker": "AppHealth\\Infrastructure\\Commands\\LambdaCommand.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Infrastructure\\Commands\\LambdaCommand.cs",
-              "RelativeToolTip": "AppHealth\\Infrastructure\\Commands\\LambdaCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T17:09:22.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T18:46:33.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\DAL.csproj",
-              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\DAL.csproj",
-              "RelativeToolTip": "DAL\\DAL.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-25T18:44:05.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\App.xaml",
               "RelativeDocumentMoniker": "AppHealth\\App.xaml",
@@ -379,19 +261,149 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DataWorker.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\DataWorker.cs",
-              "RelativeDocumentMoniker": "DAL\\DataWorker.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\DataWorker.cs",
-              "RelativeToolTip": "DAL\\DataWorker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAbAAAA",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\appsettings.json",
+              "RelativeDocumentMoniker": "AppHealth\\appsettings.json",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\appsettings.json",
+              "RelativeToolTip": "AppHealth\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T18:40:42.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\picma\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\ad540cf0149ef21f214bba0955f52b019f1247b30e97191c3e310640d898601b\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAcwMoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T18:45:01.714Z"
+              "WhenOpened": "2024-06-04T19:42:34.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddPerssonWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddPerssonWindow.xaml",
+              "RelativeDocumentMoniker": "AppHealth\\View\\AddPerssonWindow.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddPerssonWindow.xaml",
+              "RelativeToolTip": "AppHealth\\View\\AddPerssonWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T18:59:49.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddPerssonWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddPerssonWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppHealth\\View\\AddPerssonWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AddPerssonWindow.xaml.cs",
+              "RelativeToolTip": "AppHealth\\View\\AddPerssonWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:42:36.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotifyItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\Elements\\NotifyItemViewModel.cs",
+              "RelativeDocumentMoniker": "AppHealth\\ViewModel\\Elements\\NotifyItemViewModel.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\Elements\\NotifyItemViewModel.cs",
+              "RelativeToolTip": "AppHealth\\ViewModel\\Elements\\NotifyItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:47:54.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\Contracts\\Notification.cs",
+              "RelativeDocumentMoniker": "Contracts\\Notification.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\Contracts\\Notification.cs",
+              "RelativeToolTip": "Contracts\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:48:01.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddSettingWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\AddSettingWindowViewModel.cs",
+              "RelativeDocumentMoniker": "AppHealth\\ViewModel\\AddSettingWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\AddSettingWindowViewModel.cs",
+              "RelativeToolTip": "AppHealth\\ViewModel\\AddSettingWindowViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAHIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:33:00.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TimerCheckEvent.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Model\\TimerCheckEvent.cs",
+              "RelativeDocumentMoniker": "AppHealth\\Model\\TimerCheckEvent.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Model\\TimerCheckEvent.cs",
+              "RelativeToolTip": "AppHealth\\Model\\TimerCheckEvent.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:32:04.432Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
+              "Title": "LambdaCommand.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Infrastructure\\Commands\\LambdaCommand.cs",
+              "RelativeDocumentMoniker": "AppHealth\\Infrastructure\\Commands\\LambdaCommand.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Infrastructure\\Commands\\LambdaCommand.cs",
+              "RelativeToolTip": "AppHealth\\Infrastructure\\Commands\\LambdaCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:09:22.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonItem.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\Elements\\PersonItem.xaml",
+              "RelativeDocumentMoniker": "AppHealth\\View\\Elements\\PersonItem.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\Elements\\PersonItem.xaml",
+              "RelativeToolTip": "AppHealth\\View\\Elements\\PersonItem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T14:53:24.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "AppHealth\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "AppHealth\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T18:36:58.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CursesItem.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\Contracts\\CursesItem.cs",
+              "RelativeDocumentMoniker": "Contracts\\CursesItem.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\Contracts\\CursesItem.cs",
+              "RelativeToolTip": "Contracts\\CursesItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:19:07.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "Contracts.csproj",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\Contracts\\Contracts.csproj",
               "RelativeDocumentMoniker": "Contracts\\Contracts.csproj",
@@ -412,18 +424,6 @@
               "ViewState": "AQIAABAAAAAAAAAAAAApwCcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T18:31:11.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\appsettings.json",
-              "RelativeDocumentMoniker": "AppHealth\\appsettings.json",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\appsettings.json",
-              "RelativeToolTip": "AppHealth\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-25T18:40:42.886Z"
             },
             {
               "$type": "Document",
@@ -452,24 +452,48 @@
           ]
         },
         {
-          "DockedWidth": 137,
+          "DockedWidth": 151,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "AllNotifyColWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AllNotifyColWindow.xaml",
+              "RelativeDocumentMoniker": "AppHealth\\View\\AllNotifyColWindow.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AllNotifyColWindow.xaml",
+              "RelativeToolTip": "AppHealth\\View\\AllNotifyColWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T04:05:33.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppHealth\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\App.xaml.cs",
+              "RelativeToolTip": "AppHealth\\App.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:12:57.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "NotifyItem.xaml",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\Elements\\NotifyItem.xaml",
               "RelativeDocumentMoniker": "AppHealth\\View\\Elements\\NotifyItem.xaml",
               "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\Elements\\NotifyItem.xaml",
               "RelativeToolTip": "AppHealth\\View\\Elements\\NotifyItem.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-05T03:27:20.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T03:27:20.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "CreateGlobalDO.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Model\\CreateGlobalDO.cs",
               "RelativeDocumentMoniker": "AppHealth\\Model\\CreateGlobalDO.cs",
@@ -481,7 +505,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "CursesItem.xaml",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\CursesItem.xaml",
+              "RelativeDocumentMoniker": "AppHealth\\View\\CursesItem.xaml",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\CursesItem.xaml",
+              "RelativeToolTip": "AppHealth\\View\\CursesItem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-02T14:57:18.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AllNotifyColWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\AllNotifyColWindowViewModel.cs",
               "RelativeDocumentMoniker": "AppHealth\\ViewModel\\AllNotifyColWindowViewModel.cs",
@@ -493,29 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AllNotifyColWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AllNotifyColWindow.xaml",
-              "RelativeDocumentMoniker": "AppHealth\\View\\AllNotifyColWindow.xaml",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\AllNotifyColWindow.xaml",
-              "RelativeToolTip": "AppHealth\\View\\AllNotifyColWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-05T04:05:33.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CursesItem.xaml",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\CursesItem.xaml",
-              "RelativeDocumentMoniker": "AppHealth\\View\\CursesItem.xaml",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\View\\CursesItem.xaml",
-              "RelativeToolTip": "AppHealth\\View\\CursesItem.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-02T14:57:18.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "ApplicationDbContextExtensions.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\Model\\ApplicationDbContextExtensions.cs",
               "RelativeDocumentMoniker": "AppHealth\\Model\\ApplicationDbContextExtensions.cs",
@@ -527,19 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\App.xaml.cs",
-              "RelativeDocumentMoniker": "AppHealth\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\App.xaml.cs",
-              "RelativeToolTip": "AppHealth\\App.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T17:12:57.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "ApplicationDbContextExtensions.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\DAL\\ApplicationDbContextExtensions.cs",
               "RelativeDocumentMoniker": "DAL\\ApplicationDbContextExtensions.cs",
@@ -551,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "AddPerssonViewModel.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\AddPerssonViewModel.cs",
               "RelativeDocumentMoniker": "AppHealth\\ViewModel\\AddPerssonViewModel.cs",
@@ -563,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\AppHealth\\AppHealth\\ViewModel\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "AppHealth\\ViewModel\\ViewModelBase.cs",

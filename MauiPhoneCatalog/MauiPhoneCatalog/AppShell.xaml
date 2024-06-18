@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MauiPhoneCatalog.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MauiPhoneCatalog.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="MauiPhoneCatalog">
+    
+    <Shell.Resources>
+        <ResourceDictionary>
+            <!-- Настройка стиля для кнопки "Назад" -->
+            <Style TargetType="ImageButton" x:Key="BackButtonStyle">
+                <Setter Property="WidthRequest" Value="100" />
+                <!-- Ширина -->
+                <Setter Property="HeightRequest" Value="100" />
+                <!-- Высота -->
+                <Setter Property="Source" Value="back_arrow.png" />
+                <!-- Изображение стрелки -->
+                <Setter Property="BackgroundColor" Value="Transparent" />
+                <!-- Фон -->
+            </Style>
+        </ResourceDictionary>
+    </Shell.Resources>
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+</Shell>

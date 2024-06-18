@@ -1,0 +1,13 @@
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\bin\Debug\net8.0\PhoneCatalog.DAL.deps.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\bin\Debug\net8.0\PhoneCatalog.DAL.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\bin\Debug\net8.0\PhoneCatalog.DAL.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\PhoneCatalog.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\PhoneCatalog.DAL.AssemblyInfoInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\PhoneCatalog.DAL.AssemblyInfo.cs
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\PhoneCatalog.DAL.csproj.CoreCompileInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\PhoneCatalog.DAL.sourcelink.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\PhoneCatalog.DAL.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\refint\PhoneCatalog.DAL.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\PhoneCatalog.DAL.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\ref\PhoneCatalog.DAL.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiPhoneCatalog\PhoneCatalog.DAL\obj\Debug\net8.0\PhoneCatalog.DAL.csproj.AssemblyReference.cache

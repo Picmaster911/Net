@@ -1,0 +1,12 @@
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\bin\Debug\net8.0\Dyplom.Service.deps.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\bin\Debug\net8.0\Dyplom.Service.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\bin\Debug\net8.0\Dyplom.Service.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\obj\Debug\net8.0\Dyplom.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\obj\Debug\net8.0\Dyplom.Service.AssemblyInfoInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\obj\Debug\net8.0\Dyplom.Service.AssemblyInfo.cs
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\obj\Debug\net8.0\Dyplom.Service.csproj.CoreCompileInputs.cache
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\obj\Debug\net8.0\Dyplom.Service.sourcelink.json
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\obj\Debug\net8.0\Dyplom.Service.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\obj\Debug\net8.0\refint\Dyplom.Service.dll
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\obj\Debug\net8.0\Dyplom.Service.pdb
+C:\Users\picma\OneDrive\Рабочий стол\Net#\WebApiDiplom\Dyplom.Service\obj\Debug\net8.0\ref\Dyplom.Service.dll

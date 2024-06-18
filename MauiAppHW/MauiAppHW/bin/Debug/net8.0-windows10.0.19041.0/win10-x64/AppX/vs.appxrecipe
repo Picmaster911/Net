@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiAppHW\MauiAppHW\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-06T20:12:40.443</Modified>
+      <Modified>2024-06-07T17:29:48.480</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiAppHW\MauiAppHW\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppHW.dll">
       <PackagePath>MauiAppHW.dll</PackagePath>
-      <Modified>2024-06-06T20:12:40.215</Modified>
+      <Modified>2024-06-07T17:29:47.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiAppHW\MauiAppHW\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiAppHW.exe</PackagePath>
-      <Modified>2024-06-06T20:12:40.218</Modified>
+      <Modified>2024-06-07T17:29:47.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\picma\OneDrive\Рабочий стол\Net#\MauiAppHW\MauiAppHW\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

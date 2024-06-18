@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiPhoneCatalog\\MauiPhoneCatalog\\ViewModels\\MainPageVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\webapidiplom\\webapidiplom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|solutionrelative:webapidiplom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|c:\\users\\picma\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\net#\\webapidiplom\\webapidiplom\\modules\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|solutionrelative:webapidiplom\\modules\\coremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\webapidiplom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|solutionrelative:webapidiplom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81A5305-5A85-427C-AEAB-776C74851139}|Dyplom.Service\\Dyplom.Service.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\dyplom.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81A5305-5A85-427C-AEAB-776C74851139}|Dyplom.Service\\Dyplom.Service.csproj|solutionrelative:dyplom.service\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\webapidiplom\\webapidiplom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|solutionrelative:webapidiplom\\webapidiplom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8580B2-5145-42EA-95FC-8364D66E4061}|Dyplom.Data\\Dyplom.Data.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\dyplom.data\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8580B2-5145-42EA-95FC-8364D66E4061}|Dyplom.Data\\Dyplom.Data.csproj|solutionrelative:dyplom.data\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\webapidiplom\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|solutionrelative:webapidiplom\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\webapidiplom\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FFF633C-61F6-44D9-905B-182F96E3CB2F}|WebApiDiplom\\WebApiDiplom.csproj|solutionrelative:webapidiplom\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPageVM.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiPhoneCatalog\\MauiPhoneCatalog\\ViewModels\\MainPageVM.cs",
+              "RelativeDocumentMoniker": "..\\MauiPhoneCatalog\\MauiPhoneCatalog\\ViewModels\\MainPageVM.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\MauiPhoneCatalog\\MauiPhoneCatalog\\ViewModels\\MainPageVM.cs",
+              "RelativeToolTip": "..\\MauiPhoneCatalog\\MauiPhoneCatalog\\ViewModels\\MainPageVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:46:47.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiDiplom\\Program.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\Program.cs",
+              "RelativeToolTip": "WebApiDiplom\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:12:26.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\Dyplom.Service\\IRequestHandler.cs",
+              "RelativeDocumentMoniker": "Dyplom.Service\\IRequestHandler.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\Dyplom.Service\\IRequestHandler.cs",
+              "RelativeToolTip": "Dyplom.Service\\IRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:19:31.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\Dyplom.Data\\Context\\MyContext.cs",
+              "RelativeDocumentMoniker": "Dyplom.Data\\Context\\MyContext.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\Dyplom.Data\\Context\\MyContext.cs",
+              "RelativeToolTip": "Dyplom.Data\\Context\\MyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:52:51.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiDiplom\\appsettings.json",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\appsettings.json",
+              "RelativeToolTip": "WebApiDiplom\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T15:59:02.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiDiplom",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\WebApiDiplom.csproj",
+              "RelativeDocumentMoniker": "WebApiDiplom\\WebApiDiplom.csproj",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\WebApiDiplom.csproj",
+              "RelativeToolTip": "WebApiDiplom\\WebApiDiplom.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T15:44:53.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApiDiplom\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApiDiplom\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:13:55.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApiDiplom\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApiDiplom\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:11:15.029Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoreModule.cs",
+              "DocumentMoniker": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\Modules\\CoreModule.cs",
+              "RelativeDocumentMoniker": "WebApiDiplom\\Modules\\CoreModule.cs",
+              "ToolTip": "C:\\Users\\picma\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Net#\\WebApiDiplom\\WebApiDiplom\\Modules\\CoreModule.cs",
+              "RelativeToolTip": "WebApiDiplom\\Modules\\CoreModule.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwFsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:04:19.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
